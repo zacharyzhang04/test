@@ -1,0 +1,40 @@
+
+#header1{
+    text-align: center;
+    background-color: lavenderblush;
+    font-style: italic;
+    margin-left: 0px;
+    border-left: 50px;
+    padding-left: 50px;
+}
+#header3{
+    background-color: lavenderblush;
+}
+#about{
+    text-align: center;
+    font-size: medium;
+}
+#footer{
+    text-align: center;
+}
+
+/*links*/
+a{
+    color:black;
+}
+
+a:hover{
+    color:red;
+}
+
+.block{
+  float:left;
+  width:33.3%;
+}
+
+nav li{
+    display:inline;
+}
+
+
+/* example of responsive website made using @media(max-height)
